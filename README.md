@@ -1,4 +1,4 @@
-# cast-magic
+# Large-scale Public Chromecasts Scanner, in a handful of shell functions and GNU parallel
 
 I called this repository cast-magic to show how simple a task that can scale and affect millions can be and how I failed to declined my best payday to date in the interest of people who be later forced into something they may not have wanted to partake in.
 
